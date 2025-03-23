@@ -31,7 +31,7 @@ Each MATLAB script works independently and does not require other files. Follow 
 
 ## More Information
 
-If you want to see what String Artworks I have created check out my website here: [www.VirtuallyPassedStringArt.com](www.https://sites.google.com/view/virtuallypassed/home?authuser=0)
+If you want to see what String Artworks I have created check out my website here: [Virtually Passed](https://sites.google.com/view/virtuallypassed/home?authuser=0)
 
 If you want to buy a String Artwork email me at virtuallypassed@gmail.com
 
