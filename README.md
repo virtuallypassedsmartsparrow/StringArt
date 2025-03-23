@@ -1,11 +1,6 @@
 # StringArt
 
-This project converts images into string art by arranging nails in a pattern on a canvas and guiding a single thread to create the artwork. The project includes four scripts, each designed to process images with different canvas shapes and color formats:
-
-- **Black & White with Circular Canvas**
-- **Black & White with Rectangular Canvas**
-- **Color with Circular Canvas**
-- **Color with Rectangular Canvas**
+This project converts images into string art by arranging nails in a pattern on a canvas and guiding a single thread to create the artwork. The project includes four scripts, each designed to process images with different canvas shapes and color formats.
 
 ## How It Works
 
@@ -30,13 +25,9 @@ Each MATLAB script works independently and does not require other files. Follow 
 6. Click **Run** to execute the script.
 7. The script will generate a `.txt` file(s) containing the sequence of nails for the string art pattern.
 
-## Example 1 (Black White with Rectangular Canvas)
+## Example (Black White with Rectangular Canvas)
 
 ![Example 1](images/Euler_BW_String_Art.PNG)
-
-## Example 2 (Color with Rectangular Canvas)
-
-![Example 2](images/Euler_Color_StringArt.PNG)
 
 
 
