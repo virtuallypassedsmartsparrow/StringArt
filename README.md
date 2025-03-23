@@ -36,6 +36,4 @@ Below are examples of the String Art produced:
 
 ![Example 1](images/Euler_BW_String_Art.PNG)
 ![Example 2](images/Euler_Color_StringArt.PNG)
-![Example 3](images/MonaLisa_BW_String_Art.PNG)
-![Example 4](images/MonaLisa_BW_StringArt.PNG)
 
