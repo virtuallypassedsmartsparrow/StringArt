@@ -4,7 +4,7 @@ This project converts images into string art by arranging nails in a pattern on 
 
 ## How It Works
 
-The code generates a `.txt` file that contains a list of nails the string should go around in a specific order. The order of the nails defines the pattern of the string art. If you run a black & white script then only one `.txt` file will be created. If you run a colored script then 4 `.txt` files will be created (CMYK).
+Each MATLAB script generates a `.txt` file (or files) that contains a list of nails the string should go around in a specific order. If you run a black & white script then only one `.txt` file will be created. If you run a colored script then 4 `.txt` files will be created (CMYK).
 
 ## Files
 
