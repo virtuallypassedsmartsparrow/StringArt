@@ -30,10 +30,13 @@ Each MATLAB script works independently and does not require other files. Follow 
 6. Click **Run** to execute the script.
 7. The script will generate a `.txt` file(s) containing the sequence of nails for the string art pattern.
 
-## Example Images
-
-Below are examples of the String Art produced:
+## Example 1 (Black White with Rectangular Canvas)
 
 ![Example 1](images/Euler_BW_String_Art.PNG)
+
+## Example 2 (Color with Rectangular Canvas)
+
 ![Example 2](images/Euler_Color_StringArt.PNG)
+
+
 
