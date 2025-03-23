@@ -11,7 +11,7 @@ Each MATLAB script generates a `.txt` file (or files) that contains a list of na
 - `Circular_String_Art_BlackWhite_Nail_List.m`: Converts an image into a black & white String Artwork on a circular canvas.
 - `Circular_String_Art_Color_Nail_List.m`: Converts an image into a black & white String Artwork on a rectangular canvas.
 - `Rectangular_String_Art_BW_Nail_List.m`: Converts an image into a colored String Artwork on a circular canvas.
-- `Rectangular_String_Art_Color_Nail_List.m`: Converts an image into a colored String Artwork on a rectngular canvas.
+- `Rectangular_String_Art_Color_Nail_List.m`: Converts an image into a colored String Artwork on a rectangular canvas.
 
 ## Instructions for use
 
