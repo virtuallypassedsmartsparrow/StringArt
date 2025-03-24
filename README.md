@@ -1,6 +1,6 @@
 # StringArt
 
-This project converts images into string art by guiding a single thread around nails along the edges of a canvas. The project includes four scripts, each designed to process images with different canvas shapes and color formats.
+This project converts images into string art by generating an ordered list of nails that a single thread follows along the edges of a canvas. The project includes four scripts, each designed to process images with different canvas shapes and color formats.
 
 ## How It Works
 
